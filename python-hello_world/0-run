@@ -1,2 +1,2 @@
 #!/bin/bash 
-python 3 echo "Python is fun!" > myfile.py
+python3 "$PYFILE"
